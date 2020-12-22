@@ -60,4 +60,15 @@ usage : *${prefix}simih 1* to activate simi mode and *${prefix}simih 0* to deact
 note : This command can be used if you are a group admin\n`
 }
 
+owner bot :
+wa.me/6289677763976
+
+follow :
+Instagram.com/mr.rey404
+
+donasi :
+saweria : saweria.co/rey404
+Pulsa 3 : 089677763976
+pulsa tsel : 082320355690
+
 exports.help = help
